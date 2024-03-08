@@ -1,0 +1,39 @@
+body{
+
+
+    background-color:white;
+    align-items: center;
+    
+}
+
+.container{
+
+display:flex;
+    align-items: center;
+    justify-content: center;
+flex-direction: column;
+    margin: auto;
+    border: 2px solid black;
+    
+}
+
+.countrydetails{
+
+    display: flex;
+    
+    align-items: center;
+}
+
+.weatherdetails{
+
+    display: flex;
+    align-items: center;
+}
+
+.card{
+
+    margin: 20px 10px;
+}
+
+
+
